@@ -1,0 +1,1 @@
+print ("zaza, tea, taso, mariami, gio")
